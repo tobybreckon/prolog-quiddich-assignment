@@ -3,7 +3,7 @@
 Task files and supported prolog base files for developing game engine logic for Quiddich
 
 Used for teaching within the undergraduate Computer Science programme
-at [Durham University](http://www.durham.ac.uk) (UK) by [Prof. Toby Breckon](http://community.dur.ac.uk/toby.breckon/).
+at [Durham University](http://www.durham.ac.uk) (UK) by [Prof. Toby Breckon](https://breckon.org/toby/).
 
 ---
 
